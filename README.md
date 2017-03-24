@@ -11,6 +11,8 @@
 - windows sever 2016
 ## Service
 - nginx
+  - nginx的配置文件中，ROOT的目录的设置中，结尾一定不能有\或者/
+  - windows下布置NGINX，目录中不能有特殊箱号，如点号。
 - mysql, phpmyadmin
 ## Language
 - phthon
