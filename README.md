@@ -20,5 +20,6 @@
 ## Tools
 - git
 - markdown
+  - [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 - wordpress
 
